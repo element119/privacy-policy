@@ -2,8 +2,6 @@
     <h1>Privacy Policy</h1>
 </div>
 
----
-
 # General Information
 element119 is committed to protect the privacy of the users of our software (the “Software”).
 We encourage you to read this Software Privacy Policy carefully and use it to make informed decisions when considering the purchase of any of our software.
