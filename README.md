@@ -1,6 +1,9 @@
 <div align="center">
     <h1>Privacy Policy</h1>
+    <p>Last updated: 04/12/2020</p>
 </div>
+
+<br/>
 
 # General Information
 element119 is committed to protect the privacy of the users of our software (the “Software”).
@@ -149,9 +152,7 @@ We reserve the right to modify this privacy policy at any time, so please review
 Changes and clarifications will take effect immediately upon their posting on the website.
 If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
+<br/>
+
 ## Contact
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail: hello@element119.io
-
----
-
-Last updated: 04/12/2020
