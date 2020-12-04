@@ -12,6 +12,8 @@ By using our software, you agree to the terms of this Privacy Policy, and your c
 
 This Privacy Policy describes how we (the "Software", or the "Site") collect, use, and disclose information obtained via the use of our software.
 
+<br/>
+
 # Collecting Personal Information
 In this Privacy Policy, we refer to any information that can uniquely identify an individual (including the information below) as “Personal Information”.
 
@@ -21,6 +23,8 @@ We do not collect any special categories of personal information about you (this
 Nor do we collect any information about criminal convictions and offences.
 
 See the list below for more information about what Personal Information we collect and why.
+
+<br/>
 
 ## _Device Information_
 Examples of Personal Information collected may include: 
